@@ -1,0 +1,51 @@
+      
+      
+      /*Position relative*/
+
+.parent{
+    background-color: skyblue;
+    padding: 10px;
+    height: 100vh;
+    
+}
+
+.box1{
+    background-color: salmon;
+    
+    top: 10px;
+}
+
+.box2{
+    background-color: rgb(146, 231, 153);
+    position: relative;
+    margin: 5px;
+}
+
+.box3{
+    background-color: rgb(238, 167, 232);
+    
+}
+
+
+
+
+.parent2{
+    background-color: skyblue;
+    padding: 10px;
+    margin-top: 20px;
+    height: 200vh;
+}
+
+.box4{
+    background-color: salmon;
+    position: fixed;
+}
+
+.box5{
+    background-color: rgb(146, 231, 153);
+    position: relative;
+}
+
+.box6{
+    background-color: rgb(195, 136, 200);
+}
