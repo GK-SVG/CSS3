@@ -1,6 +1,11 @@
       
       
-      /*Position relative*/
+      /*Position in css 1-static
+      2-relative
+      3-absolute
+      4-sticky
+      5-fixed
+      */
 
 .parent{
     background-color: skyblue;
