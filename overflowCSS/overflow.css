@@ -1,0 +1,21 @@
+ .box{
+    overflow: hidden;
+} 
+.box2{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    overflow-y: auto;
+    background-color: black;
+    color: blanchedalmond;
+    
+}
+ img{
+    width: 420px;
+    height: 250px;
+    margin-bottom: 25px;
+} 
+
+button{
+    cursor: pointer;
+}
