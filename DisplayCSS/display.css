@@ -1,0 +1,39 @@
+body{
+    background-color: khaki;
+    font-size: 30px;
+}
+
+.div1{
+    background-color: skyblue;
+    display: block;
+}
+
+.div2{
+    background-color:greenyellow;
+    display: inline;
+}
+
+.div3{
+    background-color: rgb(219, 78, 22);
+    display: inline-block;
+}
+
+.div4{
+    background-color: rgb(32, 200, 60);
+    display: none;
+}
+
+.div5{
+    background-color: rgb(32, 49, 200);
+    display: inline-flex;
+}
+
+.div6{
+    background-color: rgb(200, 85, 32);
+    display: inline-flexbox;
+}
+
+.div7{
+    background-color: rgb(200, 32, 186);
+    display: inline-table;
+}
