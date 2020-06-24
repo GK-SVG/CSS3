@@ -26,4 +26,5 @@ body{
 .box3{
     background-color: rgb(144, 2, 2);
     border: 2px solid yellow;
+    box-shadow: 3px 3px 5px 10px black;
 }
